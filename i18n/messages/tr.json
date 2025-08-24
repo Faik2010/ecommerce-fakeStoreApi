@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "cart": "Sepet",
+    "language": "Dil"
+  },
+  "home": {
+    "title": "E-Ticaret Mağazası",
+    "subtitle": "En iyi ürünleri keşfedin",
+    "featuredProducts": "Öne Çıkan Ürünler",
+    "viewAllProducts": "Tüm Ürünleri Görüntüle"
+  },
+  "products": {
+    "title": "Ürünler",
+    "allProducts": "Tüm Ürünler",
+    "filterByCategory": "Kategoriye Göre Filtrele",
+    "sortBy": "Sırala",
+    "priceRange": "Fiyat Aralığı",
+    "category": "Kategori",
+    "allCategories": "Tüm Kategoriler",
+    "clearFilters": "Filtreleri Temizle",
+    "found": "ürün bulundu",
+    "showing": "gösteriliyor",
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "default": "Varsayılan",
+    "priceAsc": "Fiyat: Düşükten Yükseğe",
+    "priceDesc": "Fiyat: Yüksekten Düşüğe",
+    "nameAsc": "İsim: A-Z",
+    "nameDesc": "İsim: Z-A",
+    "noProducts": "Ürün bulunamadı",
+    "loading": "Ürünler yükleniyor..."
+  },
+  "product": {
+    "details": "Ürün Detayları",
+    "category": "Kategori",
+    "price": "Fiyat",
+    "rating": "Değerlendirme",
+    "addToCart": "Sepete Ekle",
+    "backToProducts": "Ürünlere Dön",
+    "notFound": "Ürün bulunamadı"
+  },
+  "cart": {
+    "title": "Sepetim",
+    "empty": "Sepetiniz boş",
+    "continueShopping": "Alışverişe Devam Et",
+    "quantity": "Adet",
+    "remove": "Kaldır",
+    "total": "Toplam",
+    "subtotal": "Ara Toplam",
+    "items": "ürün",
+    "checkout": "Ödemeye Geç"
+  },
+  "common": {
+    "currency": "₺",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "addToCart": "Sepete Ekle"
+  },
+  "notifications": {
+    "addedToCart": "✅ Ürün sepete eklendi!",
+    "removedFromCart": "🗑️ Ürün sepetten kaldırıldı!",
+    "cartUpdated": "✏️ Sepet güncellendi!",
+    "error": "❌ İşlem gerçekleştirilemedi!"
+  },
+  "footer": {
+    "copyright": "© 2024 E-Ticaret Mağazası. Tüm hakları saklıdır.",
+    "builtWith": "Next.js ile geliştirildi"
+  }
+}

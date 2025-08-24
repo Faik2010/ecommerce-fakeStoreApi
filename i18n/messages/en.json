@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "language": "Language"
+  },
+  "home": {
+    "title": "E-Commerce Store",
+    "subtitle": "Discover the best products",
+    "featuredProducts": "Featured Products",
+    "viewAllProducts": "View All Products"
+  },
+  "products": {
+    "title": "Products",
+    "allProducts": "All Products",
+    "filterByCategory": "Filter by Category",
+    "sortBy": "Sort By",
+    "priceRange": "Price Range",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "clearFilters": "Clear Filters",
+    "found": "products found",
+    "showing": "showing",
+    "previous": "Previous",
+    "next": "Next",
+    "default": "Default",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "nameAsc": "Name: A-Z",
+    "nameDesc": "Name: Z-A",
+    "noProducts": "No products found",
+    "loading": "Loading products..."
+  },
+  "product": {
+    "details": "Product Details",
+    "category": "Category",
+    "price": "Price",
+    "rating": "Rating",
+    "addToCart": "Add to Cart",
+    "backToProducts": "Back to Products",
+    "notFound": "Product not found"
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "items": "items",
+    "checkout": "Checkout"
+  },
+  "common": {
+    "currency": "$",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "addToCart": "Add to Cart"
+  },
+  "notifications": {
+    "addedToCart": "✅ Product added to cart!",
+    "removedFromCart": "🗑️ Product removed from cart!",
+    "cartUpdated": "✏️ Cart updated!",
+    "error": "❌ Operation failed!"
+  },
+  "footer": {
+    "copyright": "© 2024 E-Commerce Store. All rights reserved.",
+    "builtWith": "Built with Next.js"
+  }
+}
