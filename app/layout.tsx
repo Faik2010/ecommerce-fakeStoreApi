@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import { NextIntlClientProvider } from 'next-intl';
 
 export const metadata: Metadata = {
   title: 'E-Commerce Store',
@@ -18,7 +19,7 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="https://fakestoreapi.com" />
       </head>
       <body>
-        {children}
+        <NextIntlClientProvider>{children}</NextIntlClientProvider>
       </body>
     </html>
   );
